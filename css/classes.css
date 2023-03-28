@@ -6,6 +6,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.main-background {
+    background-image: url('https://image.freepik.com/free-photo/black-electric-guitar-black-cement-floor_34515-569.jpg');
+    height: 100%;
+    position: relative;
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .column {
     float: left;
