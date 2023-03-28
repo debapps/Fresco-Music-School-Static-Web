@@ -6,17 +6,37 @@ html {
     color: #777;
 }
 
-.bgimg-1,
-.bgimg-2,
-.bgimg-3 {
+.bgimg-1 {
+    background-image: url('https://image.freepik.com/free-photo/black-electric-guitar-black-cement-floor_34515-569.jpg');
+    min-height: 400px;
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
+
+.bgimg-2 {
+    background-image: url('https://image.freepik.com/free-photo/acoustic-guitar-playing_1426-615.jpg');
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-3 {
+    background-image: url('https://image.freepik.com/free-photo/mid-section-female-student-playing-guitar_107420-64917.jpg');
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
 
 header {
     top: 0;
